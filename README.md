@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anandhu2311c
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning a full stack web development
 - 💞️ I’m looking to collaborate on industry level projects
 
 <!---
